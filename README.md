@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiexdrop
-- 👀 I’m interested in user interfaces programming and game dev
+- 👀 I’m interested in user interfaces and game dev
 - 🌱 I’m currently learning Flutter and Godot
 - 💞️ I’m looking to collaborate on any project that is friendly for humans and earth
 - 📫 You reach me via email at [Jiexdrop](mailto:jorge.noogueira@gmail.com?subject=[GitHub]%20Hello%20Jiexdrop)
