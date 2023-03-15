@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiexdrop
-- 👀 I’m interested in user interfaces and game dev
-- 🌱 I’m currently learning Flutter and Unity
-- 💞️ I’m looking to collaborate on any project that is friendly for humans and for the earth
+- 👀 I’m interested in AI, UI and game dev
+- 🌱 I’m currently using Godot and Stable Diffusion
 - ✏ My hobbies are drawing and walking 
 - 📫 You reach me via email at [jorge.noogueira@gmail.com](mailto:jorge.noogueira@gmail.com?subject=[GitHub]%20Hello%20Jiexdrop)
 
