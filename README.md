@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiexdrop
 - 👀 I’m interested in AI, UI and game dev
-- 🌱 I’m currently using Godot and Stable Diffusion
+- 🌱 I’m currently using Unreal and Blender 
 - ✏ My hobbies are drawing and walking 
 - 📫 You reach me via email at [jorge.noogueira@gmail.com](mailto:jorge.noogueira@gmail.com?subject=[GitHub]%20Hello%20Jiexdrop)
 
